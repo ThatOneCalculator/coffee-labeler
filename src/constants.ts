@@ -1,10 +1,10 @@
 import type { Label } from "./types.js";
 
-export const DELETE = "insert-rkey-of-delete-post-here";
-export const LABEL_LIMIT = 1;
+export const DELETE = "3lbcxyd7uvs24";
+export const LABEL_LIMIT = 5;
 export const LABELS: Label[] = [
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "latte",
 		locales: [
 			{
@@ -16,7 +16,7 @@ export const LABELS: Label[] = [
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "flat-white",
 		locales: [
 			{
@@ -27,7 +27,7 @@ export const LABELS: Label[] = [
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "mocha",
 		locales: [
 			{
@@ -39,7 +39,7 @@ export const LABELS: Label[] = [
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "cappuccino",
 		locales: [
 			{
@@ -51,7 +51,7 @@ export const LABELS: Label[] = [
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "red-eye",
 		locales: [
 			{
@@ -62,14 +62,14 @@ export const LABELS: Label[] = [
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "drip",
 		locales: [
 			{ lang: "en", name: "Drip 💧", description: "Brewed with hot water" },
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "cold-brew",
 		locales: [
 			{
@@ -81,55 +81,19 @@ export const LABELS: Label[] = [
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "vietnamese-coffee",
 		locales: [
 			{
 				lang: "en",
 				name: "Vietnamese Coffee 🇻🇳",
 				description:
-					"Dark roast coffee brewed through a metal filter (phin), typically served with sweetened condensed milk",
+					"Dark roast coffee brewed through a phin, served with sweetened condensed milk",
 			},
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
-		identifier: "turkish-coffee",
-		locales: [
-			{
-				lang: "en",
-				name: "Turkish Coffee 🇹🇷",
-				description:
-					"Very finely ground coffee simmered in a special pot (cezve), served unfiltered with grounds settled at bottom",
-			},
-		],
-	},
-	{
-		rkey: "insert-rkey-here",
-		identifier: "french-press",
-		locales: [
-			{
-				lang: "en",
-				name: "French Press 🇫🇷",
-				description:
-					"Coarse ground coffee steeped in hot water and separated with a metal mesh filter, producing a full-bodied brew",
-			},
-		],
-	},
-	{
-		rkey: "insert-rkey-here",
-		identifier: "aeropress",
-		locales: [
-			{
-				lang: "en",
-				name: "AeroPress ✈️",
-				description:
-					"Coffee brewed under pressure using a manual device, producing a clean, full-flavored cup with low acidity",
-			},
-		],
-	},
-	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "pour-over",
 		locales: [
 			{
@@ -141,7 +105,7 @@ export const LABELS: Label[] = [
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "espresso-con-panna",
 		locales: [
 			{
@@ -152,7 +116,7 @@ export const LABELS: Label[] = [
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "affogato",
 		locales: [
 			{
@@ -163,43 +127,41 @@ export const LABELS: Label[] = [
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "chemex",
 		locales: [
 			{
 				lang: "en",
 				name: "Chemex ⚗️",
-				description:
-					"Pour-over method using thick paper filter and special hourglass-shaped vessel, producing exceptionally clean coffee",
+				description: "Pour-over method for exceptionally clean coffee",
 			},
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "siphon",
 		locales: [
 			{
 				lang: "en",
 				name: "Siphon Coffee 🧪",
 				description:
-					"Vacuum brewing method using heat and pressure to create a clean, tea-like body with complex flavors",
+					"Vacuum brewing using heat and pressure to create a clean, tea-like body",
 			},
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "nitro-cold-brew",
 		locales: [
 			{
 				lang: "en",
 				name: "Nitro Cold Brew 🌪️",
-				description:
-					"Cold brew coffee infused with nitrogen gas, creating a creamy, stout-like texture with cascading bubbles",
+				description: "Cold brew coffee infused with nitrogen gas",
 			},
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "irish-coffee",
 		locales: [
 			{
@@ -211,7 +173,7 @@ export const LABELS: Label[] = [
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "cortado",
 		locales: [
 			{
@@ -223,55 +185,41 @@ export const LABELS: Label[] = [
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "ristretto",
 		locales: [
 			{
 				lang: "en",
 				name: "Ristretto 💫",
-				description:
-					"Concentrated espresso shot made with less hot water, resulting in a shorter, more intense extraction",
+				description: "Concentrated espresso shot made with less hot water",
 			},
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "lungo",
 		locales: [
 			{
 				lang: "en",
 				name: "Lungo ⚡",
-				description:
-					"Extended espresso shot made with more hot water, resulting in a larger, less concentrated drink",
+				description: "Extended espresso shot made with more hot water",
 			},
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
-		identifier: "greek-coffee",
-		locales: [
-			{
-				lang: "en",
-				name: "Greek Coffee 🇬🇷",
-				description:
-					"Similar to Turkish coffee, very finely ground beans boiled with water and sugar if desired, served unfiltered",
-			},
-		],
-	},
-	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "vietnamese-egg-coffee",
 		locales: [
 			{
 				lang: "en",
 				name: "Vietnamese Egg Coffee 🥚",
 				description:
-					"Traditional Vietnamese coffee topped with a creamy mixture of egg yolks, sugar, and condensed milk",
+					"Vietnamese coffee topped with egg yolks, sugar, and condensed milk",
 			},
 		],
 	},
 	{
-		rkey: "insert-rkey-here",
+		rkey: "3lbcxyczobh27",
 		identifier: "cafe-bombon",
 		locales: [
 			{
